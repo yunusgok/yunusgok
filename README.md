@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">A passionate full-time Software Engineer, a little bit of Scuba Diver</h3>
+<h1 align="center">Hi there👋, I'm Yunus</h1>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<h3 align="center">A passionate full-time Software Engineer, a little bit of Scuba Diver👌</h3>
+
+- 🔭 I’m currently working as **Full-Stack Developer using Java and React**
 
 - 🌱 I’m currently learning **Go**
 
@@ -7,7 +10,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/yunusgok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusgok" height="30" width="40" /></a>
 <a href="https://instagram.com/ynsmrgok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ynsmrgok" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ynsmrgok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ynsmrgok" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
