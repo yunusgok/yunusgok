@@ -1,16 +1,42 @@
-<h1 align="center">Hi there👋, I'm Yunus</h1>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<h3 align="center">A passionate full-time Software Engineer, a little bit of Scuba Diver👌</h3>
+# Hi, I'm Yunus Emre Gök 👋
 
-- 🔭 I’m currently working as **Full-Stack Developer using Java and React**
+**Software Engineer · APIs, backend systems & web applications**
 
-- 🌱 I’m currently learning **Go**
+I build software for the web, with a recent focus on TypeScript APIs and serverless backends. My repositories also include Go services, web applications and computer science projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yunusgok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusgok" height="30" width="40" /></a>
-<a href="https://instagram.com/ynsmrgok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ynsmrgok" height="30" width="40" /></a>
-</p>
+Away from the keyboard, I enjoy scuba diving. 🤿
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+[LinkedIn](https://www.linkedin.com/in/yunusgok/) · [Browse my projects](https://github.com/yunusgok?tab=repositories)
+
+## Featured project
+
+### [BookingHub API](https://github.com/yunusgok/bookinghub-api)
+
+A multi-tenant booking REST API for appointment-based businesses, built with **TypeScript, Hono, Cloudflare Workers, D1 and Drizzle ORM**.
+
+- Tenant-isolated customer, service and booking management.
+- Database-enforced conflict prevention for overlapping appointments.
+- OpenAPI documentation, a browser test console and tests in the Workers runtime.
+- GitHub Actions validation and automated Cloudflare deployment.
+
+[Explore the code](https://github.com/yunusgok/bookinghub-api) · [Try the console](https://bookinghub-api.ynsmrgok.workers.dev/) · [API docs](https://bookinghub-api.ynsmrgok.workers.dev/docs)
+
+The console's data operations require an operator-provided API key. The API documentation is public.
+
+## More from my repositories
+
+| Project | Focus |
+| --- | --- |
+| [Shopping Cart API](https://github.com/yunusgok/ShoppingCartAPI-Golang-MySQL) | Go and MySQL |
+| [B+ Tree](https://github.com/yunusgok/Bplus-Tree) | Data structures in Java |
+| [Forward Rendering Pipeline](https://github.com/yunusgok/ForwardRenderingPipeline) | Computer graphics in C++ |
+
+## Technologies in my work
+
+**Recent project:** TypeScript · Hono · Cloudflare Workers · D1 / SQLite · Drizzle ORM · OpenAPI · Vitest · GitHub Actions
+
+**Other repositories:** Go · MySQL · Java · Python · C++ · JavaScript
+
+## Let's connect
+
+Find me on [LinkedIn](https://www.linkedin.com/in/yunusgok/) to talk about software engineering, projects or diving.
