@@ -1,8 +1,10 @@
 # Hi, I'm Yunus Emre Gök 👋
 
-**Software Engineer · APIs, backend systems & web applications**
+**Software Engineer · Backend systems, networking & cloud**
 
-I build software for the web, with a recent focus on TypeScript APIs and serverless backends. My repositories also include Go services, web applications and computer science projects.
+I work with **Java, Go and JavaScript / Node.js** across backend services, networking and infrastructure. My work includes **gNMI / gRPC**, **Docker** and **KVM environments**, alongside cloud applications on **Cloudflare**.
+
+My recent public project, BookingHub API, brings together TypeScript, serverless APIs and relational data integrity on Cloudflare Workers.
 
 Away from the keyboard, I enjoy scuba diving. 🤿
 
@@ -31,11 +33,17 @@ The console's data operations require an operator-provided API key. The API docu
 | [B+ Tree](https://github.com/yunusgok/Bplus-Tree) | Data structures in Java |
 | [Forward Rendering Pipeline](https://github.com/yunusgok/ForwardRenderingPipeline) | Computer graphics in C++ |
 
-## Technologies in my work
+## Technologies I work with
 
-**Recent project:** TypeScript · Hono · Cloudflare Workers · D1 / SQLite · Drizzle ORM · OpenAPI · Vitest · GitHub Actions
+| Area | Technologies |
+| --- | --- |
+| Backend | Java · Go · JavaScript · Node.js · TypeScript |
+| Networking & APIs | gNMI · gRPC · REST · OpenAPI |
+| Infrastructure | Docker · KVM environments |
+| Cloud | Cloudflare · Workers · D1 |
+| Recent project tooling | Hono · Drizzle ORM · SQLite · Vitest · GitHub Actions |
 
-**Other repositories:** Go · MySQL · Java · Python · C++ · JavaScript
+Earlier repositories also explore MySQL, Python, C++ and computer science fundamentals.
 
 ## Let's connect
 
